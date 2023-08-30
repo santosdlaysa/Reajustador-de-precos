@@ -13,7 +13,7 @@
        
     ?>
     <main>
-        <h1>Reajustador de Preços</h1>
+        <h1>REAJUSTADOR DE PREÇOS</h1>
         <form action="<?=$_SERVER['PHP_SELF']?>" method="get">
             <label for="preco">Preço do produto: </label>
             <input type="number" name="preco" id="preco" min="0.10" step="0.01"  value="<?=$preco?>">
