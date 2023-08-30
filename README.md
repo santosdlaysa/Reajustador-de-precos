@@ -1,4 +1,4 @@
-# Reajustador-de-precos
+# Reajustador-de-preços
 
 <p>Imagem do projeto</p>
 <img src="/img.png" alt="reajustadordepreco">
